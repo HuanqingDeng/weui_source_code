@@ -1,6 +1,7 @@
 # weui_source_code
-WEUI为微信web服务量身设计
 
+WEUI为微信web服务量身设计
+===
 [![Build Status](https://user-gold-cdn.xitu.io/2018/4/24/162f7821139fc1c8)](https://travis-ci.org/Tecent/weui)
 
 [English version](README.MD)
