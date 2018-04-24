@@ -2,8 +2,7 @@
 WEUI 为微信 web服务量身设计
 === 
 
-[Build Status](https://travis-ci.org/Tencent/weui.svg?branch=master
-)
+[Build Status](https://travis-ci.org/Tencent/weui.svg?branch=master)
 
 weui 源码分析
 
