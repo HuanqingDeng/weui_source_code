@@ -23,6 +23,7 @@ body,html{
     -webkit-tap-highlight-color:red;
     -webkit-user-select: none;
     user-select: none;
+    /* 禁止长按出现关联菜单 */
     -webkit-touch-callout: none;
 }
 body{
